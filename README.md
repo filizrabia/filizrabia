@@ -1,6 +1,8 @@
-### Hi, I'm Rabia
+### Hi, I'm Rabia 👋
 
-Data scientist and analyst in Berlin with 4+ years in marketing analytics: mix modeling, causal inference and data pipelines on GCP. These days I'm running a small "company" of AI agents from the CLI, using them to turn my app ideas into real tools.
+Data scientist based in Berlin with 4+ years of experience in marketing analytics, causal inference, marketing mix modeling, and building data pipelines on GCP.
+
+Lately, I've been experimenting with local LLMs and running a small "company" of AI agents to turn my ideas into working applications.
 
 Python · SQL · TypeScript · BigQuery · Meridian · LLM APIs
 
